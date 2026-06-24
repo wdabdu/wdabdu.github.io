@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD Researcher in Computer Vision · <a href='https://www.ucd.ie/cs/'>School of Computer Science, University College Dublin</a>
 
