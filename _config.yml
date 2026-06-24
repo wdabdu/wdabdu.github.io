@@ -1,13 +1,10 @@
+title: ahmed abubaker
 first_name: Ahmed
-middle_name:
 last_name: Abubaker
-email: ahmed.abubaker1@ucdconnect.ie  
-# description: Personal website of Ahmed Abubaker — monocular depth estimation researcher.
+email: ahmed.abubaker1@ucdconnect.ie
 url: https://wdabdu.github.io
-baseurl: ""        # ← MUST be empty for a user page (common mistake: don't put /repo-name)
-keywords: monocular depth estimation, computer vision
+baseurl: ""
 
-# Social — fill what you have, leave the rest blank
 github_username: wdabdu
 scholar_userid: JpHcLYkAAAAJ
 orcid_id: 0009-0005-6942-3698
