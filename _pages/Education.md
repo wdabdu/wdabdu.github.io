@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /education/
+permalink: /Education/
 title: Education
 nav: true
 nav_order: 1
