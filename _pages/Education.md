@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 **PhD in Computer Science** — University College Dublin<br>
-2025–present · School of Computer Science<br>
+2025–present
 
 **MSc in Systems and Control Engineering** — King Fahd University of Petroleum and Minerals<br>
 2024
