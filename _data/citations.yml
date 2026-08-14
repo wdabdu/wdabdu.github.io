@@ -1,9 +1,9 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-08-14'
 papers:
   JpHcLYkAAAAJ:2osOgNQ5qMEC:
     citations: 5
-    title: Fusion of visual attention and scene descriptions with deep reinforcement learning for UAV indoor autonomous navigation
+    title: Fusion of Visual Attention and Scene Descriptions With Deep Reinforcement Learning for AAV Indoor Autonomous Navigation
     year: '2025'
   JpHcLYkAAAAJ:IjCSPb-OGe4C:
     citations: 0
@@ -13,19 +13,23 @@ papers:
     citations: 0
     title: System Identification of Dynamic Adaptive Fuzzy Modeling Using Reinforcement Learning
     year: '2026'
+  JpHcLYkAAAAJ:Zph67rFs4hoC:
+    citations: 0
+    title: Optimizing Multi-Drone Flight Paths in Mountainous Terrain Using Enhanced Artificial Bee Colony and Genetic Algorithms
+    year: '2025'
   JpHcLYkAAAAJ:d1gkVwhDpl0C:
     citations: 6
     title: Challenges in multi-domain robot swarm for industrial mapping and asset monitoring
     year: '2025'
   JpHcLYkAAAAJ:qjMakFHDy7sC:
     citations: 2
-    title: 'Multi-Domain Robot Swarm for Industrial Mapping and Asset Monitoring: Technical Challenges and Solutions'
+    title: 'Multi-domain robot swarm for industrial mapping and asset monitoring: technical challenges and solutions'
     year: '2025'
   JpHcLYkAAAAJ:u-x6o8ySG0sC:
-    citations: 34
+    citations: 36
     title: 'Comparative analysis: Fractional pid vs. pid controllers for robotic arm using genetic algorithm optimization'
     year: '2024'
   JpHcLYkAAAAJ:u5HHmVD_uO8C:
-    citations: 4
+    citations: 5
     title: Optimal altitude range for image collection drone from agricultural areas with image resolution and power consumption constraints
     year: '2023'
